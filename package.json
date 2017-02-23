@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "questionare",
+  "main": "flash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DnlOliveira/Flashcard-Generator.git"
+  },
+  "author": "doliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DnlOliveira/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/DnlOliveira/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.2"
+  }
+}
